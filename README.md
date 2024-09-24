@@ -1,4 +1,5 @@
-## Libraries: cv2, numpy, os, glob
+## Libraries: 
+cv2, numpy, os, glob
 
 ## Usage
 1. Prepare Your Folder:
